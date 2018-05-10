@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ImageLoad.iml" filepath="$PROJECT_DIR$/ImageLoad.iml" />
+      <module fileurl="file://E:\StudyProject\ImageLoad\ImageLoad.iml" filepath="E:\StudyProject\ImageLoad\ImageLoad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\StudyProject\ImageLoad\app\app.iml" filepath="E:\StudyProject\ImageLoad\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imgloadlib/imgloadlib.iml" filepath="$PROJECT_DIR$/imgloadlib/imgloadlib.iml" />
+      <module fileurl="file://E:\StudyProject\ImageLoad\imgloadlib\imgloadlib.iml" filepath="E:\StudyProject\ImageLoad\imgloadlib\imgloadlib.iml" />
+    </modules>
+  </component>
+</project>
